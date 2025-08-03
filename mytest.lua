@@ -45,3 +45,19 @@ repeat
       y = y + 1 
     until (y > 3)
 until (x >5)
+local num = 10
+if (num > 5)
+then
+    print("num is greater than 5")
+end
+if nil then
+    print("The nil is true")
+else
+    print("The nil is false")
+end
+if 0 then
+    print("The 0 is true")
+else
+    print("The 0 is false")
+end
+
